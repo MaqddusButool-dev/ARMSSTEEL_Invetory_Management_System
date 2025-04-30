@@ -1,6 +1,6 @@
 @echo off
 REM Change to the project directory
-cd /d C:\Users\Muhammad Najam\OneDrive\Desktop\AMZ_ST_new\ARMS-INVENTORY\armz-steel-ims
+cd /d C:\Users\Maqddus_Butool\OneDrive\Desktop\AMZ_ST_new\ARMS-INVENTORY\armz-steel-ims
 
 REM Start the Next.js development server in a new terminal window
 start cmd /k "npm install && npm run dev"
